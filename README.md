@@ -27,3 +27,5 @@ _phrase-3_ avec un dernier mot.
 Même opération puis le troisième participe à l'histoire.
 
 Après 3 tours reconstituez l'histoire et lisez-là.
+
+https://help.github.com/articles/fork-a-repo/
